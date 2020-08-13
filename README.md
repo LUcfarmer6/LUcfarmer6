@@ -1,4 +1,4 @@
-# Carson Farmer
+# Carson W. Farmer
 [Resume](https://github.com/LUcfarmer6/LUcfarmer6.github.io/blob/master/Carson_Farmer_Resume.pdf)
 ## Contact Information
 [LinkedIn](https://www.linkedin.com/in/carson-farmer/)
