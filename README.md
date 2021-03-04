@@ -10,3 +10,7 @@
 [Dimensionless Parameter-Based Numerical Model for Double Conical Dielectric Elastomer Actuators](https://doi.org/10.1088/2631-8695/abaec5)
 ## Posters
 [Soft Robotics for Assisting People with Parkinson’s Tremor: A Proposal](https://digitalcommons.liberty.edu/research_symp/2020/posters/42/)
+
+## Competition Awards
+[OpenCV AI Competition 2021 Phase I Finalist](https://opencv.org/opencv-ai-competition-2021/#phase1-winners-list)
+[NXP HoverGames 2.0 NXP Bonus Prize](https://www.hackster.io/lucfarmer6/aerial-social-distancing-monitoring-with-drones-476cb6)
