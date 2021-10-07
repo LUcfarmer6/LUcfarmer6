@@ -4,6 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/carson-farmer/)
 - [Email](mailto:cfarmer6@liberty.edu)
 ## Papers
+- [A Detailed Solution Framework for the Out-of-Plane Displacement of Circular Dielectric Elastomer Actuators](https://doi.org/10.1088/2631-8695/abaec5)
 - [Improved Model for Conical Dielectric Elastomer Actuators With Fewer Electrical Connections](https://doi.org/10.1115/1.4045651)
 - [Dimensionless Parameter-Based Numerical Model for Double Conical Dielectric Elastomer Actuators](https://doi.org/10.1088/2631-8695/abaec5)
 
